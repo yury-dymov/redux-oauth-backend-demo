@@ -1,0 +1,1 @@
+BCrypt::Engine.cost = 4
